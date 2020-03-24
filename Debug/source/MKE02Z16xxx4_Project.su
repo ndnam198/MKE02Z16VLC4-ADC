@@ -1,0 +1,8 @@
+fsl_adc.h:206:20:ADC_EnableHardwareTrigger	16	static
+fsl_adc.h:281:20:ADC_EnableAnalogInput	24	static
+fsl_adc.h:299:24:ADC_GetChannelConversionValue	16	static
+MKE02Z16xxx4_Project.c:46:6:ConvertToString	32	static
+MKE02Z16xxx4_Project.c:64:6:i2c_release_bus_delay	16	static
+MKE02Z16xxx4_Project.c:73:6:user_i2c_sleep	24	static
+MKE02Z16xxx4_Project.c:87:10:ADC_channelSelectAndRead	32	static
+MKE02Z16xxx4_Project.c:103:5:main	56	static
